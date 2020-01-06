@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pstagram</string>
+
+    <string name="input_email_hint">abc123@naver.com</string>
+    <string name="input_password_hint">비밀번호를 입력해주세요</string>
+    <string name="input_username_hint">사용자명을 입력해주세요</string>
+</resources>
