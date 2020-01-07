@@ -13,10 +13,7 @@
 - 새로고침
 - [더 자세한 기능보기🔍](./README/기능명세.md)
 
-<img src="./README/login.png" width="24%">
-<img src="./README/register.png" width="24%">
-<img src="./README/upload.png" width="24%">
-<img src="./README/mypage.png" width="24%">
+<img src="./README/login.png" width="24%"><img src="./README/register.png" width="24%"><img src="./README/upload.png" width="24%"><img src="./README/mypage.png" width="24%">
 
 
 ## 구조
